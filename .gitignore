@@ -1,0 +1,10 @@
+*.pyc
+
+# Logs
+logs
+*.log
+
+# Zipped files
+*.zip
+
+data/*
